@@ -1,11 +1,3 @@
-- 👋 Hi, I’m sachinlodhi
-- 👀 I’m interested in Computer Vision, Deep Learning and Image Processing with a little bit addition of software development.
-- 🌱 I’m currently learning GANs and stable diffusion models.
-- 💞️ I’m looking to collaborate on DL models.
-- 📫 Reach me at LinkedIn sachinlodhi
-
-
-
 
 <h1 align="center">Hi 👋, I'm Sachin Lodhi</h1>
 <h3 align="center">Computer Vision Enthusiast from India.</h3>
