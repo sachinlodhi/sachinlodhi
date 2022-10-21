@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sachinlodhi
-- 👀 I’m interested in ... Computer Vision
-- 🌱 I’m currently learning ... Competitive Programming
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👋 Hi, I’m sachinlodhi
+- 👀 I’m interested in Computer Vision, Deep Learning and Image Processing with a little bit addition of software development.
+- 🌱 I’m currently learning GANs and stable diffusion models.
+- 💞️ I’m looking to collaborate on DL models.
+- 📫 Reach me at LinkedIn sachinlodhi
 
 <!---
 sachinlodhi/sachinlodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
