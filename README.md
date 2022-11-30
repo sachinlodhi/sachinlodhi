@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sachinlodhi8614@gmail.com**
 
-- ⚡ Fun fact **I am human**
+- ⚡ **I persevere.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
