@@ -8,13 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/sachinlodhi98" target="blank"><img src="https://img.shields.io/twitter/follow/sachinlodhi98?logo=twitter&style=for-the-badge" alt="sachinlodhi98" /></a> </p>
 
-- 🔭 I’m currently working on **Generative Adversial Netowrks.**
+- 🔭 I’m currently working on **Autonomous Vehicles**
 
-- 🌱 I’m currently learning **Stable Diffusion models.**
+- 🌱 I’m currently learning **Some cool AI stuffs.**
 
-- 👯 I’m looking to collaborate on **recognition based DL models.**
-
-- 🤝 I’m looking for help with **Advanced Deep Learning models.**
 
 - 👨‍💻 All of my projects are available at [sachinlodhi.github.io](sachinlodhi.github.io)
 
